@@ -1,0 +1,45 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 10px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:large;">1. What is the "1/4 rule" for commercial hardwood installation?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">This refers to the expansion gap required at the perimeter of the room. Wood naturally expands and contracts with the humidity in #State, and leaving a 1/4 inch gap prevents buckling and long-term damage to the planks.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. Do you provide disposal manifests for old flooring materials?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we provide full documentation for the removal and disposal of old debris. We ensure all waste from your carpet replacement is handled according to local environmental regulations in #State.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Should I install a grease interceptor or a standard floor trap with my new tiling?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For restaurant owners, a grease interceptor is essential to catch fats and solids before they clog your pipes. We ensure our tile installation services are perfectly integrated with your kitchen's drainage requirements in #State.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. How long does the flooring installation in #State typically take?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most residential rooms can be completed in a single day, though larger projects or specialized materials like hardwood floor installation in #State may require more time for acclimation and finishing.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-697-9075">Click Here To Call Us (888) 697-9075</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>

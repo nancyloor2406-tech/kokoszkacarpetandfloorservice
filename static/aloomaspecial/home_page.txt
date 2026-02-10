@@ -1,0 +1,43 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 10px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:large;">1. How long does hardwood floor refinishing take?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Typically, the process takes 2–5 days depending on the square footage and whether you choose an oil-based or water-based finish to restain wood floor surfaces.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. What is the best flooring for a high-moisture laundry room?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We highly recommend luxury vinyl plank flooring installation or traditional tile, as these materials are waterproof and highly resistant to chemical spills and heat.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Can you perform carpet installation on staircases?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we specialize in custom carpet installation for stairs, including decorative runners and full-wrap techniques, ensuring both safety and a seamless aesthetic.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. How often should I schedule professional carpet cleaning?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For most households, we recommend professional carpet cleaning every 12 to 18 months to maintain indoor air quality and fiber integrity.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-697-9075">Click Here To Call Us (888) 697-9075</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
